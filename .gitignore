@@ -1,2 +1,4 @@
 /env
-*/__pycache__
+mysite/mysite/__pycache__
+mysite/website/__pycache__
+mysite/website/migrations/__pycache__
