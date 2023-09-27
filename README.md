@@ -14,3 +14,17 @@ source env/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+## Admin user set up
+
+1. Create super user once all set up
+```
+python manage.py creeatesuperuser
+```
+
+## Other commands
+
+- Run server:
+```
+python manage.py runserver
+```
