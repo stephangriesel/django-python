@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 1. Create super user once all set up
 ```
-python manage.py creeatesuperuser
+python manage.py createsuperuser
 ```
 
 ## Other commands
